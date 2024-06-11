@@ -8,6 +8,7 @@ void main()
     printf("Enter the dimension of the matrix \n");
     scanf("%d",&n);
     printf("Enter the co-efficents of the matrix \n");
+    printf("sample addition of one line code for learning git");
     for (i = 0; i < n; ++i)
     {
         for (j = 0; j < n; ++j)
